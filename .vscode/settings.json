@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "color",
+        "random",
+        "tetris",
+        "tetromino",
+        "tetrominos"
+    ],
+    "cSpell.ignoreWords": [
+        "react",
+        "tetris"
+    ]
+}
